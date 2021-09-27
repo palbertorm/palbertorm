@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @palbertorm
-- 👀 I’m interested in developer web
+- 👀 I’m interested in developer web front-end
 - 🌱 I’m currently learning react and C#
 - 💞️ I’m looking to collaborate on projects with front-end
-- 📫 How to reach my linkdin is 
+- 📫 How to reach my linkdin is /palbertorm
 
 <!---
 palbertorm/palbertorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
